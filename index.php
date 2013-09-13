@@ -9,6 +9,7 @@ Distance Student, Landenberg, PA</h1>
 <br/>PHP *still* not working but works locally. Adding external html tags, sigh.
 <br/>Enough. Removing PHP.
 <br/>Adding PHP back in; apparently Git changed the permissions on index.php to 664; 
-needs to be 644.'; ?>
+needs to be 644.
+<br/>Testing to see if the post-merge trick worked.'; ?>
 </body>
 </html>
