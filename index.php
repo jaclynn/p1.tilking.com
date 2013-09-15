@@ -32,9 +32,13 @@ img {
 	padding-left: 15px;
 }
 table, tr, td, th {
-	border: 0px  #063201;
 	padding-top: 0px;
 	padding-bottom: 15px;
+	border-right-width: 0px;
+	border-top: 0px  #063201;
+	border-bottom: 0px  #063201;
+	border-left: 0px  #063201;
+	border-right-color: #063201;
 }
 </style>
 </head>
@@ -43,9 +47,9 @@ table, tr, td, th {
 <p>
   <img src="jackie.jpg" width="285" height="307"  alt=""/>
   <h1>Jacqueline Wilson</h1>
-  <table width="931" border="1">
+  <table>
   <tr>
-    <td width="921"><h2>About Me</h2>
+    <td><h2>About Me</h2>
     <p>Hi everyone. My name is Jacqueline Wilson and I live in a small, 
       old farmhouse in Landenberg, PA with my husband, son, two dogs and 
       five cats. I work at my son's school as a technology director. I 
