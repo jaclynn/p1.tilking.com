@@ -10,6 +10,7 @@ Distance Student, Landenberg, PA</h1>
 <br/>Enough. Removing PHP.
 <br/>Adding PHP back in; apparently Git changed the permissions on index.php to 664; 
 needs to be 644.
-<br/>Testing to see if the post-merge trick worked.'; ?>
+<br/>Testing to see if the post-merge trick worked.
+<br/>Test of Federico fix'; ?>
 </body>
 </html>
