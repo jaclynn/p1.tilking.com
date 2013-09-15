@@ -75,7 +75,9 @@ table, tr, td, th {
   <tr>
     <td><h2>Code Editors</h2>
       <p>Sublime Text and Text Wrangler for simple edits<br>
-    Dreamweaver because I have no artistic/layout/design ability whatsoever.</p>
+    Dreamweaver because I have no artistic/layout/design ability whatsoever.<br/><br/>
+      <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.tilking.com%2F">This page validates!</a>
+    </p>
   </td>
   </tr>
 </table>
